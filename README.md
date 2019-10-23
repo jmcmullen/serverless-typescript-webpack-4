@@ -1,4 +1,4 @@
-# Microservices Starter Theme
+# Microservices Starter
 
 Micro-services written in Node.js using serverless & lambda starter project.
 
