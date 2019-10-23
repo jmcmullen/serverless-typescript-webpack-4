@@ -31,4 +31,4 @@ npm deploy
 
 ### Usage
 
-- [Add email to SendGrid list](/src/signUpForm/README.md)
+- [Example post request](/src/signUpForm/README.md)
