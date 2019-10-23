@@ -1,4 +1,4 @@
-Add an email to the SendGrid contact list.
+Example post request
 
 Method: `POST`
 
