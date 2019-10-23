@@ -1,6 +1,6 @@
-# Tune The Tuned Microservices
+# Microservices Starter Theme
 
-Micro-services written in Node.js using serverless & lambda for Foot Locker's Tune The Tuned project.
+Micro-services written in Node.js using serverless & lambda starter project.
 
 ---
 
