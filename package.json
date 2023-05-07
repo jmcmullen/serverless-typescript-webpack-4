@@ -31,7 +31,7 @@
     "@typescript-eslint/eslint-plugin": "^2.3.2",
     "@typescript-eslint/parser": "^2.3.2",
     "apex.js": "^2.0.0",
-    "aws-sdk": "^2.542.0",
+    "aws-sdk": "^2.1373.0",
     "cross-env": "^6.0.3",
     "eslint": "^6.5.1",
     "eslint-config-airbnb-base": "^14.0.0",
